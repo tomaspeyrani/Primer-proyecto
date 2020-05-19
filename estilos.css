@@ -1,0 +1,177 @@
+body {
+    background-image: url(https://w.wallhaven.cc/full/83/wallhaven-83dz2y.png);
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-position: absolute;
+    background-size: cover;
+    
+    
+}
+body:before {
+    content:"";
+    width:100%;
+    min-height:300%;
+    position: absolute;
+    top:0;
+    left:0;
+
+    background:rgb(21, 27, 34);
+    background-size: cover;
+    background-position: absolute;
+    background-attachment: fixed;
+
+    opacity:0.9;
+    z-index:-1;
+}
+
+#titulo {
+    color: white;
+    text-shadow:1px 2px black;
+    font-size: 60px;
+    text-align: center;
+    font-family: "BPG Couriel Bold"
+    
+    
+
+}
+
+#parrafo {
+    color:white;
+    text-shadow:1px 2px black;
+    font-size: 15px;
+    font-family: 'Courier New', Courier, monospace;
+
+}
+
+
+#agua{ 
+    
+   height:70%;
+   width: 124.3px;
+   float: left;
+   opacity: 0.5;
+}
+#agua:hover{
+    opacity: 1;
+    background-color:white;
+    transition: 700ms;
+ }
+#fuego{
+    
+    height:70%;
+    width: 130px;
+    float: left;
+    opacity: 0.5;
+   
+
+}
+#fuego:hover{
+    opacity: 1;
+    background-color:white;
+    transition: 700ms;
+ }
+
+#viento{
+    
+    height:70%;
+    width: 126.4px;
+    float: left;
+    opacity: 0.5;
+   
+
+}
+#viento:hover{
+    opacity: 1;
+    background-color:white;
+    transition: 700ms;
+ }
+#serpiente{
+    
+    height:70%;
+    width: 123.3px;
+    float: left;
+    opacity: 0.5;
+   
+
+}
+#serpiente:hover{
+    opacity: 1;
+    background-color:white;
+    transition: 700ms;
+ }
+#insecto{
+    
+    height:70%;
+    width: 130px;
+    float: left;
+    opacity: 0.5;
+   
+
+}
+#insecto:hover{
+    opacity: 1;
+    background-color:white;
+    transition: 700ms;
+ }
+#roca{
+    
+    height:70%;
+    width: 130px;
+    float: left;
+    opacity: 0.5;
+   
+
+}
+#roca:hover{
+    opacity: 1;
+    background-color:white;
+    transition: 700ms;
+ }
+#sonido{
+    
+    height:70%;
+    width: 130px;
+    float: left;
+    opacity: 0.5;
+   
+
+}
+#sonido:hover{
+    opacity: 1;
+    background-color:white;
+    transition: 700ms;
+ }
+#niebla{
+    
+    height:70%;
+    width: 130px;
+    float: left;
+    opacity: 0.5;
+   
+
+}
+#niebla:hover{
+    opacity: 1;
+    background-color:white;
+    transition: 700ms;
+ }
+#amor{
+    
+    height:70%;
+    width: 130px;
+    float: left;
+    opacity: 0.5;
+   
+
+}
+#amor:hover{
+    opacity: 1;
+    background-color:white;
+    transition: 700ms;
+ }
+.row{
+  
+    
+}
+
+
